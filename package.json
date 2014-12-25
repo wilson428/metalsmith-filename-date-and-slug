@@ -1,0 +1,26 @@
+{
+  "name": "metalsmith-filename-date-and-slug",
+  "version": "0.0.1",
+  "description": "Extracts the date and slug from each filename, Jekyll-style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilson428/metalsmith-filename-date-and-slug.git"
+  },
+  "dependencies": {
+    "debug": "~0.7.4"
+  },
+  "keywords": [
+    "metalsmith",
+    "metalsmith-plugin"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilson428/metalsmith-filename-date-and-slug/issues"
+  },
+  "homepage": "https://github.com/wilson428/metalsmith-filename-date-and-slug"
+}
